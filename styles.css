@@ -1,1 +1,16 @@
-/* your code */
+table{
+	width: 450px;
+	align: center;
+	border: 1px solid;
+	border-radius: 5px;
+}
+thead{
+	background: royalblue;
+	color: white;
+	border: 1px solid;
+	border-radius: 10px;
+}
+th{
+	width: 150px;
+}
+
